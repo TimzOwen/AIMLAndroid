@@ -8,6 +8,12 @@
     tools:context=".MainActivity">
 
 
+    <com.owen.aimlandroid.GraphicOverlay
+        android:id="@+id/graphic_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
     <com.camerakit.CameraKitView
         android:layout_above="@id/btn_detect"
         android:layout_width="match_parent"
