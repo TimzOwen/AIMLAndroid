@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338091909161",
+    "firebase_url": "https://aimlandroid.firebaseio.com",
+    "project_id": "aimlandroid",
+    "storage_bucket": "aimlandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338091909161:android:388bdc3d7a0dae0bc07c38",
+        "android_client_info": {
+          "package_name": "com.owen.aimlandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338091909161-jvu6ab64vns6fusbv0mhaq23cfiieed2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.owen.aimlandroid",
+            "certificate_hash": "75ca9b111b3cd3275fa200bbebb81b1fa1b77b88"
+          }
+        },
+        {
+          "client_id": "338091909161-1coe8h72rjd3lefmmgrta3ttq4o7cr25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkPrrswNHGPed908Kq1OXIg2CsjqVGO7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338091909161-1coe8h72rjd3lefmmgrta3ttq4o7cr25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
