@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AIMLAndroid</string>
+    <string name="detect">Detect</string>
 </resources>
